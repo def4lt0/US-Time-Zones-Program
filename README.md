@@ -9,5 +9,5 @@
 ---
 ### Documentation:
 -   #### [Python](https://docs.python.org/3/)
--   #### [datetime](https://docs.python.org/3/library/datetime.html)
--   #### [tzlocal](https://pypi.org/project/tzlocal/)
+-   - #### [datetime](https://docs.python.org/3/library/datetime.html)
+-   - #### [tzlocal](https://pypi.org/project/tzlocal/)
